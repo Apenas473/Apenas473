@@ -33,7 +33,9 @@ seAmostrarNoGit();
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100"> -->
 </div>
-
+<div align="center">
+ 𝚃𝚘𝚍𝚘 𝚘𝚋𝚓𝚎𝚝𝚘 𝚏𝚒𝚌𝚊 𝚊𝚛𝚖𝚊𝚣𝚎𝚗𝚊𝚍𝚘 𝚎𝚖 𝚞𝚖𝚊 𝚟𝚊𝚛𝚒𝚊́𝚟𝚎𝚕, 𝚖𝚊𝚜 𝚗𝚎𝚖 𝚝𝚘𝚍𝚊 𝚟𝚊𝚛𝚒𝚊́𝚟𝚎𝚕 𝚐𝚞𝚊𝚛𝚍𝚊 𝚞𝚖 𝚘𝚋𝚓𝚎𝚝𝚘.
+</div>
 <!-- 
 ## CURIOSITIES ##
 
