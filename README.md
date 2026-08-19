@@ -3,21 +3,23 @@
 ### B𝚎𝚖 𝚟𝚒𝚗𝚍𝚘 𝚊𝚘 meu 𝙶𝚒𝚝𝙷𝚞𝚋
 𝙼𝚎𝚞 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘: https://apenas473.github.io/meuportfolio
 
+
   ``` JAVASCRIPT
-    function seAmostrarNoGit() {
+function seApresentarNoGitHub() {
     const dev = true;
+
     if (dev) {
-        const workOn = 'Visual Studio Code';
-        const ProgramSince = 2022;
-        const FavoriteLanguage = 'JavaScript';
-        console.log('Trabalho com:', workOn);
-        console.log('Programando desde:', ProgramSince);
-        console.log('Linguagem favorita:', FavoriteLanguage);
-    } else {
-        console.log('Go carry out projects');
+        const editor = 'Visual Studio Code';
+        const programandoDesde = 2022;
+        const linguagemFavorita = 'JavaScript';
+
+        console.log('Editor:', editor);
+        console.log('Programando desde:', programandoDesde);
+        console.log('Linguagem favorita:', linguagemFavorita);
     }
 }
-seAmostrarNoGit();
+
+seApresentarNoGitHub();
   ```
 ## 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 👨🏾‍💻
 Sou estudante de Sistemas de Informação, com formação técnica em Redes de Computadores e Informática.
