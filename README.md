@@ -1,15 +1,16 @@
-## 𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 𝚋𝚎𝚖 𝚟𝚒𝚗𝚍𝚘 𝚊𝚘 meu 𝙶𝚒𝚝𝙷𝚞𝚋
+## 𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍
+# B𝚎𝚖 𝚟𝚒𝚗𝚍𝚘 𝚊𝚘 meu 𝙶𝚒𝚝𝙷𝚞𝚋
   **𝙸'𝚖 𝙰𝚕𝚎 𝚂𝚊𝚗𝚝𝚘𝚜 🖖**
   
 
-**https://apenas473.github.io/meuportfolio  <--- 𝙼𝚎𝚞 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘**
+**𝙼𝚎𝚞 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘: https://apenas473.github.io/meuportfolio**
 
   ``` JAVASCRIPT
     function seAmostrarNoGit() {
     const dev = true;
     if (dev) {
         const workOn = 'Visual Studio Code';
-        const ProgramSince = 2018;
+        const ProgramSince = 2022;
         const FavoriteLanguage = 'JavaScript';
         console.log('Trabalho com:', workOn);
         console.log('Programando desde:', ProgramSince);
@@ -21,7 +22,7 @@
 seAmostrarNoGit();
   ```
 ## 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 👨🏾‍💻
-𝚂𝚘𝚞 𝚎𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 𝚍𝚎 𝙸𝚗𝚏𝚘𝚛𝚖𝚊ç𝚊𝚘 8/8, 𝚃𝚎𝚌 𝚁𝚎𝚍𝚎s, 𝚃𝚎𝚌 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚌𝚊, Artista 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛, 𝚏𝚘𝚌𝚊𝚍𝚘 𝚎 𝚜𝚎𝚖𝚙𝚛𝚎 𝚎𝚖 𝚋𝚞𝚜𝚌𝚊 𝚍𝚎 𝚗𝚘𝚟𝚘𝚜 𝚍𝚎𝚜𝚊𝚏𝚒𝚘𝚜.
+𝚂𝚘𝚞 𝚎𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 𝚍𝚎 𝙸𝚗𝚏𝚘𝚛𝚖𝚊ç𝚊𝚘 8/8, 𝚃𝚎𝚌 𝚁𝚎𝚍𝚎s, 𝚃𝚎𝚌 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚌𝚊, Artista, 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛, 𝚏𝚘𝚌𝚊𝚍𝚘 𝚎 𝚜𝚎𝚖𝚙𝚛𝚎 𝚎𝚖 𝚋𝚞𝚜𝚌𝚊 𝚍𝚎 𝚗𝚘𝚟𝚘𝚜 𝚍𝚎𝚜𝚊𝚏𝚒𝚘𝚜.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
